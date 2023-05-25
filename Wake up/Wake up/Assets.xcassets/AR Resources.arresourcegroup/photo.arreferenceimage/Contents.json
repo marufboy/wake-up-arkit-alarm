@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "Afif-Photo_pas_white.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 280.26666666666665
+  }
+}
